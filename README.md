@@ -7,7 +7,7 @@ Dans ce notebook, nous allons montrer pourquoi ce problème ne peut pas être ra
 
 Nous avons réalisé une vidéo expliquant les bases de la méthode, que vous pouvez retrouver ici: https://www.youtube.com/watch?v=rnAij5OSw5M
 
-[![XML Video](https://img.youtube.com/vi/rnAij5OSw5M/0.jpg)](https://www.youtube.com/watch?v=rnAij5OSw5M)
+[![XML Video](https://img.youtube.com/vi/rnAij5OSw5M/2.jpg)](https://www.youtube.com/watch?v=rnAij5OSw5M)
 
 
 Les données sont issus de  [The 9th annual MLSP competition: New methods for acoustic classification of multiple simultaneous bird species in a noisy environment]( http://vintage.winklerbros.net/Publications/mlsp2013ma.pdf ) et servent d'exemple d'introduction simple.
